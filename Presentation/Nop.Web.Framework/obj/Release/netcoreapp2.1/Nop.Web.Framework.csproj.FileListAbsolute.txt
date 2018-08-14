@@ -1,0 +1,4 @@
+C:\Users\John\Downloads\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.csprojAssemblyReference.cache
+C:\Users\John\Downloads\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\John\Downloads\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\John\Downloads\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.AssemblyInfo.cs
